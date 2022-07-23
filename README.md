@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hi-space
-- 👀 Doing currently: System Architecture Design, Vision AI Engineering, ML Ops. 
-- 🌱 Doing steadily: XR, Server
+- 🔥 Autonomous Driving SW Engineer, System Architecture Design
+- 🌱 Vision AI Engineering, ML Ops 
+- 👀 XR
 
 <!---
 hi-space/hi-space is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
